@@ -4,8 +4,11 @@ body{
 }
 
 header{
-
+    font: normal 18pt Arial;
+    color: white;
+    text-align: center;
 }
+
 
 section{
     background: white;
